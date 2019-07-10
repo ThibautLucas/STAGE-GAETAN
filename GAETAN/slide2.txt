@@ -1,0 +1,15 @@
+Notre service 
+
+Nous fournissons un service d’annotation d’image et de conseil en intelligence artificielle.     
+
+En couplant intelligemment l’action humaine de labellisation et nos algorithmes, nous optimisons la préparation de votre base de donnée et vous donnons une inside pertinente sur les algorithmes à utiliser pour votre use-case. 
+
+Pour vous donner un ordre d’idée, nous labellisons  : 1 000 images en 25 minutes. 
+
+Ainsi pour créer une database susceptible d’obtenir des bonnes performances pour discriminer Bouteille/Barquette il vous faut un dataset d’image différentes ( Sans “data augmentation” ? cf rotation de vos objets lors de la prise de photo ) d’environ 5 000 images par classe. Notre service peut vous fournir une telle base en 7h de travail comprenant :
+
+- 4 h de labellisation assisté par nos algorithmes
+- 1 h de process de data augmentation pour vous fournir une base prête à l’emploi
+- 2 h d’analyse et de rédaction de rapport sur vos données et conseils adaptés à vos compétences en interne
+
+Nous vous permettrons donc d’accélérer la phase de recherche et développement de vos projets d’intelligence artificielle en vous donnant toutes les clefs pour la réussite de votre projet.

@@ -1,0 +1,16 @@
+Les prérequis de votre projet
+
+Pertinence de vos données pour votre use-case:
+
+? Dataset ayant la même proportion d’image dans chaque classe.
+
+? Qualité suffisante des images pour obtenir un process de qualité
+
+
+
+Faisabilité de votre use-case:
+
+?  Bonnes performances de prédiction si l’on a un dataset labellisé
+
+- Hardware capable d'effectuer les calculs assez vite
+
